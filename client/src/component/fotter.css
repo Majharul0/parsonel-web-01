@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+}
+.footer{
+    margin-top:200px;
+    background: rgba(64, 63, 69, 0.2);
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.footer h5{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+padding: 15px 0px;
+
+color: #f3f3f376;
+}
