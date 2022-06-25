@@ -14,6 +14,9 @@ function Home() {
       </div>
       <div className="right">
       <Spline scene="https://prod.spline.design/9oMYCeIheTWISj9T/scene.splinecode" />
+      {/* <Spline scene="https://prod.spline.design/zvvLUGiYjhq-zFF9/scene.splinecode" /> */}
+  
+        
         {/* <img className='home-image' src={require('../images/home-image.png')} alt="" /> */}
       </div>
     </div>

@@ -7,6 +7,8 @@
 }
 body{
     background: #010044;
+    background-image: linear-gradient(to bottom right, #0A0A72 1%,#060627 25%, #050527 80%);
+
 }
 .container{
     max-width: 1230px;

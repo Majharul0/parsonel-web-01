@@ -8,7 +8,7 @@ function Nav() {
     <div className="nav">
      <img className='logo' src={brand} alt="" />
         <ul className='menu'>
-            <li className='each-menu'><NavLink  className='menu-link active' exact  to="/home">Home</NavLink></li>
+            <li className='each-menu'><NavLink  className='menu-link active' exact  to="/">Home</NavLink></li>
             <li className='each-menu'><NavLink  className='menu-link' exact to="/about">About</NavLink></li>
             <li className='each-menu'><NavLink  className='menu-link'exact to="/contact">Contact US</NavLink></li>
         </ul>
